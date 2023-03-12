@@ -1,0 +1,14 @@
+{
+  "name": "restaurant-app-tutorial",
+  "version": "1.0.0",
+  "description": "restaurant app tutorial using MERN ",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar",
+  "license": "MIT",
+  "dependencies": {
+    "touch": "^3.1.0"
+  }
+}
